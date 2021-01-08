@@ -3,13 +3,13 @@
 
 > 近期更新：
 >
-> SC 小组 Benchmark 笔记
+> [SC 小组 Benchmark 笔记](./SC-Benchmark/SC-Benchmark.md)
 
 
 
 > 精选文章：
 >
-> [Git Tutorial]()
+> [Git Tutorial](./GitTutorial)
 
 
 
