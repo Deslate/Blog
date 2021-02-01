@@ -3,6 +3,8 @@
 
 > 近期更新：
 >
+> [分布式存储](./Casual-Notes/分布式存储.md)
+>
 > [SC 小组 Benchmark 笔记](./SC-Benchmark/SC-Benchmark.md)
 
 
